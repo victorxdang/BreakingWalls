@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 047be09e72ed8c448a50a16ca8de80a5, type: 3}
+  m_Name: AudioEffects
+  m_EditorClassIdentifier: 
+  backgroundMusic:
+  - {fileID: 8300000, guid: b7df8f531ce9dae40927704c7ca7647d, type: 3}
+  - {fileID: 8300000, guid: 3573b5820758d6f4bb3bd0cc85229d89, type: 3}
+  - {fileID: 8300000, guid: 6f18ed5ffabbcbd488c25be46da9f77b, type: 3}
+  - {fileID: 8300000, guid: 764a89ec1c53c2743bb140dc63be293c, type: 3}
+  - {fileID: 8300000, guid: 869ffc06068f8564d8aa44acdc36d766, type: 3}
+  - {fileID: 8300000, guid: 59cf552540019614787727bc2b8e231d, type: 3}
+  - {fileID: 8300000, guid: 455eac51e830e59469309884b5c7d0f9, type: 3}
+  wallDestroyClip: {fileID: 8300000, guid: bfe7b9776beb45e47b2e4e21ed2175ee, type: 3}
+  ballColorSwitchClip: {fileID: 8300000, guid: 1f44bb5ab960e464898b906ad6ecfbf9, type: 3}
+  ballMovingSideClip: {fileID: 8300000, guid: b04f0cbb6237adb41b4122c0c25a33d4, type: 3}
+  ballWrongColorClip: {fileID: 8300000, guid: 5febc0aa21887ea4d977b1e8f275a8a1, type: 3}
