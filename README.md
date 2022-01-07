@@ -6,7 +6,6 @@ A casual endless runner game inspired by the likes of Temple Run and Subway Surf
 <br>
 
 ## Gameplay
----
 * Tap on the ball to switch colors.
 * Match the color of the ball to the color of the wall to break through it. Otherwise you'll bonk your ball on the wall.
 * Color-changing walls!
@@ -18,7 +17,6 @@ A casual endless runner game inspired by the likes of Temple Run and Subway Surf
 <br>
 
 ## Features
----
 * Google Play Games Service integration.
 * Game data saved using both local device storage and cloud storage through Google Drive (no data is collected or used on our end).
 * Google Ad-Mob integration (no other ad networks implemented). Banner, interstitial and rewarded video ads are implemented throughout the game.
@@ -27,7 +25,6 @@ A casual endless runner game inspired by the likes of Temple Run and Subway Surf
 <br>
 
 ## Technical Features
----
 * Walls shatter using basic physics.
 * All platforms (including walls) seen in the game are pooled, only 5 platforms (plus 3 walls for each platform) are spawn and used througout the entire game to preserve system resources and maintain performance.
 * The ball stays in place while the platforms move towards the player.
@@ -37,7 +34,6 @@ A casual endless runner game inspired by the likes of Temple Run and Subway Surf
 <br>
 
 ## Screenshots
----
 ![phone_default](./Screenshots/Phone_Default.jpg)
 ![phone_red](./Screenshots/Phone_Red.jpg)
 ![phone_green](./Screenshots/Phone_Green.jpg)
@@ -47,13 +43,11 @@ A casual endless runner game inspired by the likes of Temple Run and Subway Surf
 <br>
 
 ## Notes:
----
 * Was previously released to the Google Play Store, but is no longer available.
 * Breaking Walls 2...?
 
 <br>
 
 ## License:
----
 * © 2018-2022 Victor Dang All Rights Reserved
 * You may download and modify this project for educational and non-commerical use.
